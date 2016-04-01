@@ -1,5 +1,5 @@
-# rals
-Ruby Arduino Led Socket
+# WRALS
+Web Ruby Arduino Led Socket
 
 ## Synopsis
 This system aims to control an LED through a web interface using HTML5 Ruby and Arduino C.
