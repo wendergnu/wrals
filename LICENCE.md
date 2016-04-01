@@ -1,5 +1,4 @@
-Copyright (c) 2015 VirtualGYN,
-  https://github.com/wendergnu/wrals
+Copyright (c) 2015 VirtualGYN, https://github.com/wendergnu/wrals
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
